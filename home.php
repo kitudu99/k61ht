@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Đoạn mới</p>
-    <h1>Tiêu đề khác</h1>
+    <p>Đoạn văn</p>
 </body>
 </html>
